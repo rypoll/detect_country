@@ -1,0 +1,1 @@
+web: voila --port=$PORT --no-browser --enable_nbextensions=True 01_Country_detector_app_(fastai).ipynb.ipynb
